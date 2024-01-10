@@ -1,0 +1,41 @@
+:root {
+    --black: black;
+    --white: white;
+    --pink: pink;
+    --purple: purple;
+    --blue: blue;
+    --lightblue: lightblue;
+    --red: red;
+}
+
+body {
+    background-image: url("fallingstars.gif");
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    color: var(--white);
+}
+
+.para1 {
+    color:pink;
+    font-size: 30px;
+  }
+
+  .para2 {
+    color:pink;
+    font-size: 30px;
+  }
+
+  .para3 {
+    color:pink;
+    font-size: 30px;
+  }
+
+  .para4 {
+    color:pink;
+    font-size: 30px;
+  }
+  
+  ul {
+    font-size: 16px;
+  }
